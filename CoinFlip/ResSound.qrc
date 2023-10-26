@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>G:/music/soundRes/coin1.mp3</file>
+        <file>G:/music/soundRes/coinVictory_com.mp3</file>
+        <file>G:/music/soundRes/coin1.wav</file>
+        <file>G:/music/soundRes/coinVictory.wav</file>
+    </qresource>
+</RCC>
